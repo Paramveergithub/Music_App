@@ -1,3 +1,6 @@
+html{
+  background: linear-gradient(to bottom, #d2f1a9, #80fd04, #080f00);
+}
 .container{
   height: 90vh;
   width: 27rem;
